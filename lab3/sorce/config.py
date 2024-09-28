@@ -1,1 +1,1 @@
-API_TOKEN = "7396138549:AAFNcJEvjnYCiWmZiawR1EqQxaHTiwqDTzE"
+API_TOKEN = "Ваш токен"
